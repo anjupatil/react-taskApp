@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-taskApp/static/css/main.74a535a5.css",
+    "main.js": "/react-taskApp/static/js/main.8b5d2369.js",
+    "index.html": "/react-taskApp/index.html",
+    "main.74a535a5.css.map": "/react-taskApp/static/css/main.74a535a5.css.map",
+    "main.8b5d2369.js.map": "/react-taskApp/static/js/main.8b5d2369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a535a5.css",
+    "static/js/main.8b5d2369.js"
+  ]
+}
